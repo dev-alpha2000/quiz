@@ -28,3 +28,21 @@ bash
 Copy code
 npm start
 The app will be available at http://localhost:3000.
+
+Usage
+Take a Quiz: On the homepage, start a quiz by selecting a category or topic.
+Answer Questions: Answer multiple-choice questions by selecting one option for each question.
+View Score: After completing the quiz, the app will display the total score and feedback based on your performance.
+
+Example
+When you open the app, you will:
+
+Select a quiz to start.
+Answer multiple-choice questions.
+Receive your score and feedback at the end of the quiz.
+Dependencies
+React: Frontend framework for building the UI.
+React Router: For navigation between different pages (quiz, results).
+CSS Modules or Styled Components: For styling.
+React Context or Redux (Optional): For state management to track answers and results.
+Contributing
